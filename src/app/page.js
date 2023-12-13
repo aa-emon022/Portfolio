@@ -14,3 +14,12 @@ export default function Home() {
     </div></>
   )
 }
+
+
+export async function generateMetadata(){
+ 
+  return{
+    title: "Project",
+  }
+
+}

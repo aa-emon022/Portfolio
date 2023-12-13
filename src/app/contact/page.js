@@ -9,3 +9,12 @@ export default function page() {
     </div>
   )
 }
+
+export async function generateMetadata(){
+ 
+  return{
+    title: "Contact",
+  
+  }
+
+}

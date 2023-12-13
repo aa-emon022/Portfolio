@@ -9,3 +9,12 @@ export default function page() {
    </>
   )
 }
+
+export async function generateMetadata(){
+  
+  return{
+    title: "Project",
+  
+  }
+
+}

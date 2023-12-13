@@ -7,3 +7,11 @@ export default function page() {
     <Footer/></div>
   )
 }
+export async function generateMetadata(){
+ 
+  return{
+    title: "Home",
+  
+  }
+
+}
