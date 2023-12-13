@@ -1,0 +1,53 @@
+[
+    {
+        "id":7,
+        "img":"https://cdn-images-1.medium.com/max/3528/1*Yejyd-So5Ze1ksQzKW43DA.png",
+        "title":"Next js Developer",
+        "body":"A Next. js developer is a software developer who uses the Next. js framework alongside ReactJS to build web applications."  
+    
+    },
+     {
+        "id":1,
+        "img":"https://99designs-blog.imgix.net/blog/wp-content/uploads/2022/01/104228210.jpg?auto=format&q=60&fit=max&w=930",
+        "title":"Web Design",
+        "body":"The term web design is normally used to describe the design process relating to the front-end (client side) design of a website including writing markup."
+
+    
+},
+{
+    "id":2,
+    "img":"https://cdn.educba.com/academy/wp-content/uploads/2019/05/web-application.gif",
+    "title":"Web Application",
+    "body":"A web application (web app) is an application program that is stored on a remote server and delivered over the internet through a browser interface"  
+},
+{
+    "id":3,
+    "img":"https://qph.cf2.quoracdn.net/main-qimg-369787c22f255e420696df6261895e48-lq",
+    "title":"SEO",
+    "body":"Search engine optimization is the process of improving the quality and quantity of website traffic to a website or a web page from search engines. SEO targets unpaid traffic rather than direct traffic or paid traffic"  
+
+},
+{
+    "id":4,
+    "img":"https://dariopironi.com/wp-content/uploads/2022/09/How-to-Become-a-React-Developer.png",
+    "title":"React Developer",
+    "body":"A React developer uses their programming skills to create JavaScript-based applications for web or mobile environments"  
+
+},
+{
+    "id":5,
+    "img":"https://thetapacademy.com/wp-content/uploads/2022/10/full-stack-web-developer-1024x1024.jpg",
+    "title":"Full Stack Developer",
+    "body":"A full-stack developer helps build and maintain both the front-end and the back-end of a website"  
+
+},
+{
+    "id":6,
+    "img":"https://cdn.cookielaw.org/logos/028e799e-5bb4-4f89-9ce8-1718d42d344c/22c2e2c0-3df0-4958-8672-1194370ee230/542a9b3e-88eb-4f84-95fd-b19e01352169/Logo-Prisma.png",
+    "title":"Prisma OEM Developer",
+    "body":"Prisma is a next-generation Node.js and TypeScript ORM for PostgreSQL, MySQL, SQL Server, SQLite, MongoDB, and CockroachDB"  
+
+}
+
+
+]
